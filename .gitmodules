@@ -1,0 +1,13 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/hugo-scroll"]
+	path = themes/hugo-scroll
+	url = https://github.com/zjedi/hugo-scroll.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
+[submodule "personal-web"]
+	path = personal-web
+	url = https://github.com/bjacquemet/personal-web.git

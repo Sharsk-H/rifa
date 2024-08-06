@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New on Belajar Pintar</title>
+    <link>http://localhost:60506/tags/new/</link>
+    <description>Recent content in New on Belajar Pintar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Belajar Pintar</copyright>
+    <atom:link href="http://localhost:60506/tags/new/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Belajar Pintar</title>
+      <link>http://localhost:60506/docs/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:60506/docs/welcome/</guid>
+      <description>Belajar Pintar #Selamat Datang di Belajar Pintar - Tempat Belajar Terbaik!!!!!!
+Informasi Tentang Belajar Pintar #&amp;ldquo;Belajar Pintar&amp;rdquo; adalah website pendidikan yang didedikasikan untuk membantu pelajar dari segala usia dalam mencapai potensi penuh mereka.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/docs/welcome/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>
