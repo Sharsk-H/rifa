@@ -17,6 +17,5 @@ cascade:
 Berbagai Postingan dan Tutorial Ada di Sini!!
 {{< /lead >}}
 
-This section contains links to example templates and pages created using Blowfish to get you inspired.
 
 ---

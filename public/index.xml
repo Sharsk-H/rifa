@@ -2,1672 +2,601 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to Blowfish! :tada: on Belajar Pintar</title>
-    <link>http://localhost:60506/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome to Blowfish! :tada: on Belajar Pintar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Belajar Pintar</copyright>
-    <lastBuildDate>Sat, 03 Aug 2024 20:28:23 +0700</lastBuildDate><atom:link href="http://localhost:60506/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>n9o.xyz</title>
-      <link>http://localhost:60506/users/n9o.xyz/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/n9o.xyz/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/n9o.xyz/feature.jpg" />
-    </item>
-    
+    <lastBuildDate>Sat, 03 Aug 2024 20:28:23 +0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Belajar Pintar</title>
-      <link>http://localhost:60506/docs/welcome/</link>
+      <link>http://localhost:1313/docs/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/docs/welcome/</guid>
+      <guid>http://localhost:1313/docs/welcome/</guid>
       <description>Belajar Pintar #Selamat Datang di Belajar Pintar - Tempat Belajar Terbaik!!!!!!
 Informasi Tentang Belajar Pintar #&amp;ldquo;Belajar Pintar&amp;rdquo; adalah website pendidikan yang didedikasikan untuk membantu pelajar dari segala usia dalam mencapai potensi penuh mereka.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/docs/welcome/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured.svg" />
     </item>
     
     <item>
       <title>KURSUS</title>
-      <link>http://localhost:60506/docs/kursus/</link>
+      <link>http://localhost:1313/docs/kursus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/docs/kursus/</guid>
+      <guid>http://localhost:1313/docs/kursus/</guid>
       <description>Kursus Kami #Selamat datang di halaman kursus &amp;ldquo;Belajar Pintar.&amp;rdquo; Jelajahi berbagai kursus yang kami tawarkan, dirancang untuk memenuhi kebutuhan belajar Anda. Mulai dari matematika, sains, bahasa, hingga seni, kami memiliki semuanya!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/docs/kursus/featured.svg" />
-    </item>
-    
-    <item>
-      <title>madoke.org</title>
-      <link>http://localhost:60506/users/madoke.org/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/madoke.org/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/madoke.org/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/kursus/featured.svg" />
     </item>
     
     <item>
       <title>Testimoni</title>
-      <link>http://localhost:60506/docs/testimoni/</link>
+      <link>http://localhost:1313/docs/testimoni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/docs/testimoni/</guid>
+      <guid>http://localhost:1313/docs/testimoni/</guid>
       <description>Selamat Datang di Belajar Pintar - Tempat Belajar Terbaik!!!!!!
 Apa Kata Mereka Tentang Kami? #Kami bangga dengan dampak positif yang telah kami berikan kepada para pengguna kami. Berikut adalah beberapa testimoni dari siswa, orang tua, dan guru yang telah merasakan manfaat dari &amp;ldquo;Belajar Pintar&amp;rdquo;:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/docs/testimoni/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/testimoni/featured.svg" />
     </item>
     
     <item>
       <title>Blog</title>
-      <link>http://localhost:60506/docs/blog/</link>
+      <link>http://localhost:1313/docs/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/docs/blog/</guid>
+      <guid>http://localhost:1313/docs/blog/</guid>
       <description>Blog Belajar Pintar #Selamat datang di Blog &amp;ldquo;Belajar Pintar&amp;rdquo; di mana kami berbagi artikel, tips, dan panduan yang membantu Anda dalam perjalanan belajar Anda. Jelajahi berbagai topik menarik yang telah kami sediakan untuk Anda.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/docs/blog/featured.svg" />
-    </item>
-    
-    <item>
-      <title>code-chimp.com</title>
-      <link>http://localhost:60506/users/code-chimp.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/code-chimp.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/code-chimp.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>mucahitkurtlar.github.io</title>
-      <link>http://localhost:60506/users/mucahitkurtlar.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/mucahitkurtlar.github.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/mucahitkurtlar.github.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>brendanwallace.github.io</title>
-      <link>http://localhost:60506/users/brendanwallace.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/brendanwallace.github.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/brendanwallace.github.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>cuttontail.blog</title>
-      <link>http://localhost:60506/users/cuttontail.blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/cuttontail.blog/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/cuttontail.blog/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>pmnxis.github.io</title>
-      <link>http://localhost:60506/users/pmnxis.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/pmnxis.github.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/pmnxis.github.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>ciicadalab.github.io</title>
-      <link>http://localhost:60506/users/ciicadalab.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/ciicadalab.github.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/ciicadalab.github.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>georgiancodeclub.github.io</title>
-      <link>http://localhost:60506/users/georgiancodeclub.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/georgiancodeclub.github.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/georgiancodeclub.github.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>albertolvera.com</title>
-      <link>http://localhost:60506/users/albertolvera.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/albertolvera.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/albertolvera.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>fahru.my.id</title>
-      <link>http://localhost:60506/users/fahru.my.id/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/fahru.my.id/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/fahru.my.id/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>loisvelasco.is-a.dev</title>
-      <link>http://localhost:60506/users/loisvelasco.is-a.dev/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/loisvelasco.is-a.dev/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/loisvelasco.is-a.dev/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>omarohn.de</title>
-      <link>http://localhost:60506/users/omarohn.de/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/omarohn.de/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/omarohn.de/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>insidemordecai.com</title>
-      <link>http://localhost:60506/users/insidemordecai.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/insidemordecai.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/insidemordecai.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>blastomussa.dev</title>
-      <link>http://localhost:60506/users/blastomussa.dev/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/blastomussa.dev/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/blastomussa.dev/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>cdell.io</title>
-      <link>http://localhost:60506/users/cdell.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/cdell.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/cdell.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>jam.dsg.li</title>
-      <link>http://localhost:60506/users/jam.dsg.li/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/jam.dsg.li/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/jam.dsg.li/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>priyakdey.com</title>
-      <link>http://localhost:60506/users/priyakdey.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/priyakdey.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/priyakdey.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>sdehm.dev</title>
-      <link>http://localhost:60506/users/sdehm.dev/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/sdehm.dev/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/sdehm.dev/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>dizzytech.de</title>
-      <link>http://localhost:60506/users/dizzytech.de/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/dizzytech.de/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/dizzytech.de/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>alejandro-ao.com</title>
-      <link>http://localhost:60506/users/alejandro-ao.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/alejandro-ao.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/alejandro-ao.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>adir1.com</title>
-      <link>http://localhost:60506/users/adir1.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/adir1.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/adir1.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>niklas-hartmann-dev.de</title>
-      <link>http://localhost:60506/users/niklas-hartmann-dev.de/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/niklas-hartmann-dev.de/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/niklas-hartmann-dev.de/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>blog.muffn.io</title>
-      <link>http://localhost:60506/users/blog.muffn.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/blog.muffn.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/blog.muffn.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>nick.bouwhuis.net</title>
-      <link>http://localhost:60506/users/nick.bouwhuis.net/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/nick.bouwhuis.net/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/nick.bouwhuis.net/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>vividscc.com</title>
-      <link>http://localhost:60506/users/vividscc.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/vividscc.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/vividscc.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>mariuskimmina.com</title>
-      <link>http://localhost:60506/users/mariuskimmina.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/mariuskimmina.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/mariuskimmina.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>technicat.com</title>
-      <link>http://localhost:60506/users/technicat.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/technicat.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/technicat.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>fugugames.com</title>
-      <link>http://localhost:60506/users/fugugames.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/fugugames.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/fugugames.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>hyperbowl3d.com</title>
-      <link>http://localhost:60506/users/hyperbowl3d.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/hyperbowl3d.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/hyperbowl3d.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>talkdimsum.com</title>
-      <link>http://localhost:60506/users/talkdimsum.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/talkdimsum.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/talkdimsum.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>alanctanner.com</title>
-      <link>http://localhost:60506/users/alanctanner.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/alanctanner.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/alanctanner.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>rdgo.dev</title>
-      <link>http://localhost:60506/users/rdgo.dev/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/rdgo.dev/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/rdgo.dev/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>clemsau.com</title>
-      <link>http://localhost:60506/users/clemsau.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/clemsau.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/clemsau.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>lelouvincx.github.io</title>
-      <link>http://localhost:60506/users/lelouvincx.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/lelouvincx.github.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/lelouvincx.github.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>weaxsey.org</title>
-      <link>http://localhost:60506/users/weaxsey.org/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/weaxsey.org/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/weaxsey.org/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>nikarashihatsu.github.io</title>
-      <link>http://localhost:60506/users/nikarashihatsu.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/nikarashihatsu.github.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/nikarashihatsu.github.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>blog.enmanuelmoreira.com</title>
-      <link>http://localhost:60506/users/blog.enmanuelmoreira.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/blog.enmanuelmoreira.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/blog.enmanuelmoreira.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>halcyonstraits.com</title>
-      <link>http://localhost:60506/users/halcyonstraits.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/halcyonstraits.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/halcyonstraits.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>50-nuances-octets.fr</title>
-      <link>http://localhost:60506/users/50-nuances-octets.fr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/50-nuances-octets.fr/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/50-nuances-octets.fr/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>marupanda.art/marucomics</title>
-      <link>http://localhost:60506/users/marupanda.art-marucomics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/marupanda.art-marucomics/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/marupanda.art-marucomics/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>m3upt.com</title>
-      <link>http://localhost:60506/users/m3upt.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/m3upt.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/m3upt.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>pacochan.net</title>
-      <link>http://localhost:60506/users/pacochan.net/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/pacochan.net/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/pacochan.net/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>jundimubarok.com</title>
-      <link>http://localhost:60506/users/jundimubarok.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/jundimubarok.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/jundimubarok.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>vkmki001.github.io</title>
-      <link>http://localhost:60506/users/vkmki001.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/vkmki001.github.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/vkmki001.github.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>bbagwang.com</title>
-      <link>http://localhost:60506/users/bbagwang.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/bbagwang.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/bbagwang.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>jamiemoxon.tech</title>
-      <link>http://localhost:60506/users/jamiemoxon.tech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/jamiemoxon.tech/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/jamiemoxon.tech/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>theindiecoder.cloud</title>
-      <link>http://localhost:60506/users/theindiecoder.cloud/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/theindiecoder.cloud/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/theindiecoder.cloud/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>gma.name</title>
-      <link>http://localhost:60506/users/gma.name/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/gma.name/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/gma.name/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>mayer.life</title>
-      <link>http://localhost:60506/users/mayer.life/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/mayer.life/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/mayer.life/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>scottmckendry.tech</title>
-      <link>http://localhost:60506/users/scottmckendry.tech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/scottmckendry.tech/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/scottmckendry.tech/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>adilhyz.github.io</title>
-      <link>http://localhost:60506/users/adilhyz.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/adilhyz.github.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/adilhyz.github.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>ohdmire.github.io</title>
-      <link>http://localhost:60506/users/ohdmire.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/ohdmire.github.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/ohdmire.github.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>ricklan.photography</title>
-      <link>http://localhost:60506/users/ricklan.photography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/ricklan.photography/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/ricklan.photography/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>deepumohan.com/tech</title>
-      <link>http://localhost:60506/users/deepumohan.com-tech/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/deepumohan.com-tech/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/deepumohan.com-tech/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>kylemalloy.com</title>
-      <link>http://localhost:60506/users/kylemalloy.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/kylemalloy.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/kylemalloy.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>joush007.github.io</title>
-      <link>http://localhost:60506/users/joush007.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/joush007.github.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/joush007.github.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>rejowski.xyz</title>
-      <link>http://localhost:60506/users/rejowski.xyz/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/rejowski.xyz/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/rejowski.xyz/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>v-y-s.com</title>
-      <link>http://localhost:60506/users/v-y-s.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/v-y-s.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/v-y-s.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>blog.stonegarden.dev</title>
-      <link>http://localhost:60506/users/blog.stonegarden.dev/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/blog.stonegarden.dev/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/blog.stonegarden.dev/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>renaud.warnotte.be</title>
-      <link>http://localhost:60506/users/renaud.warnotte.be/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/renaud.warnotte.be/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/renaud.warnotte.be/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>BoringTech.net</title>
-      <link>http://localhost:60506/users/boringtech.net/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/boringtech.net/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/boringtech.net/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>technicaldc.github.io</title>
-      <link>http://localhost:60506/users/technicaldc.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/technicaldc.github.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/technicaldc.github.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>alxhslm.github.io</title>
-      <link>http://localhost:60506/users/alxhslm.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/alxhslm.github.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/alxhslm.github.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>the-maze.net</title>
-      <link>http://localhost:60506/users/the-maze.net/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/the-maze.net/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/the-maze.net/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>DXPetti.com</title>
-      <link>http://localhost:60506/users/dxpetti.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/dxpetti.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/dxpetti.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>asterisk.lol</title>
-      <link>http://localhost:60506/users/asterisk.lol/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/asterisk.lol/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/asterisk.lol/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>notes.bluesdriveamelia.space</title>
-      <link>http://localhost:60506/users/notes.bluesdriveamelia.space/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/notes.bluesdriveamelia.space/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/notes.bluesdriveamelia.space/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>ekwska.com</title>
-      <link>http://localhost:60506/users/ekwska.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/ekwska.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/ekwska.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>todreamr.github.io</title>
-      <link>http://localhost:60506/users/todreamr.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/todreamr.github.io/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/todreamr.github.io/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>aakashnand.com</title>
-      <link>http://localhost:60506/users/aakashnand.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/aakashnand.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/aakashnand.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>innerknowing</title>
-      <link>http://localhost:60506/users/innerknowing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/innerknowing/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/innerknowing/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>Mare_Infinitus</title>
-      <link>http://localhost:60506/users/mare_infinitus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/mare_infinitus/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/mare_infinitus/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>karlukle.site</title>
-      <link>http://localhost:60506/users/karlukle.site/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/karlukle.site/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/karlukle.site/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>Adam Madej - Gameplay Animator</title>
-      <link>http://localhost:60506/users/adam-madej---gameplay-animator/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/adam-madej---gameplay-animator/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/adam-madej---gameplay-animator/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>eallion.com</title>
-      <link>http://localhost:60506/users/eallion.com/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/eallion.com/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/eallion.com/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>Synaptic Sugar</title>
-      <link>http://localhost:60506/users/synaptic-sugar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/synaptic-sugar/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/synaptic-sugar/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>michaeldorner.de</title>
-      <link>http://localhost:60506/users/michaeldorner.de/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/michaeldorner.de/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/michaeldorner.de/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>Ignacio Conde</title>
-      <link>http://localhost:60506/users/ignacio-conde/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/ignacio-conde/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/ignacio-conde/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>MEM v ENNBEE</title>
-      <link>http://localhost:60506/users/mem-v-ennbee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/mem-v-ennbee/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/mem-v-ennbee/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>Joshua Blais</title>
-      <link>http://localhost:60506/users/joshua-blais/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/joshua-blais/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/joshua-blais/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>Beauty Formulation</title>
-      <link>http://localhost:60506/users/beauty-formulation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/beauty-formulation/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/beauty-formulation/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>Middle of Nowhere</title>
-      <link>http://localhost:60506/users/middle-of-nowhere/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/middle-of-nowhere/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/middle-of-nowhere/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>UmmIt - Blog</title>
-      <link>http://localhost:60506/users/ummit---blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/ummit---blog/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/ummit---blog/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>江ノ島エスカー</title>
-      <link>http://localhost:60506/users/%E6%B1%9F%E3%83%8E%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/%E6%B1%9F%E3%83%8E%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/%E6%B1%9F%E3%83%8E%E5%B3%B6%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%BC/feature.jpg" />
-    </item>
-    
-    <item>
-      <title>Jinbo Pan - Blog</title>
-      <link>http://localhost:60506/users/jinbo-pan---blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/jinbo-pan---blog/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/users/jinbo-pan---blog/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/blog/featured.svg" />
     </item>
     
     <item>
       <title>Sumber</title>
-      <link>http://localhost:60506/tags/advanced/sumber/</link>
+      <link>http://localhost:1313/tags/advanced/sumber/</link>
       <pubDate>Sat, 03 Aug 2024 20:28:23 +0700</pubDate>
       
-      <guid>http://localhost:60506/tags/advanced/sumber/</guid>
+      <guid>http://localhost:1313/tags/advanced/sumber/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Strategi</title>
-      <link>http://localhost:60506/tags/advanced/strategi/</link>
+      <link>http://localhost:1313/tags/advanced/strategi/</link>
       <pubDate>Sat, 03 Aug 2024 20:28:08 +0700</pubDate>
       
-      <guid>http://localhost:60506/tags/advanced/strategi/</guid>
+      <guid>http://localhost:1313/tags/advanced/strategi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Teknik2</title>
-      <link>http://localhost:60506/tags/advanced/teknik2/</link>
+      <link>http://localhost:1313/tags/advanced/teknik2/</link>
       <pubDate>Sat, 03 Aug 2024 20:27:42 +0700</pubDate>
       
-      <guid>http://localhost:60506/tags/advanced/teknik2/</guid>
+      <guid>http://localhost:1313/tags/advanced/teknik2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Manajemen</title>
-      <link>http://localhost:60506/tags/advanced/manajemen/</link>
+      <link>http://localhost:1313/tags/advanced/manajemen/</link>
       <pubDate>Sat, 03 Aug 2024 20:27:18 +0700</pubDate>
       
-      <guid>http://localhost:60506/tags/advanced/manajemen/</guid>
+      <guid>http://localhost:1313/tags/advanced/manajemen/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Motivasi</title>
-      <link>http://localhost:60506/tags/advanced/motivasi/</link>
+      <link>http://localhost:1313/tags/advanced/motivasi/</link>
       <pubDate>Sat, 03 Aug 2024 20:26:56 +0700</pubDate>
       
-      <guid>http://localhost:60506/tags/advanced/motivasi/</guid>
+      <guid>http://localhost:1313/tags/advanced/motivasi/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pr</title>
-      <link>http://localhost:60506/tags/advanced/pr/</link>
+      <link>http://localhost:1313/tags/advanced/pr/</link>
       <pubDate>Sat, 03 Aug 2024 20:26:37 +0700</pubDate>
       
-      <guid>http://localhost:60506/tags/advanced/pr/</guid>
+      <guid>http://localhost:1313/tags/advanced/pr/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Teknik</title>
-      <link>http://localhost:60506/tags/advanced/teknik/</link>
+      <link>http://localhost:1313/tags/advanced/teknik/</link>
       <pubDate>Sat, 03 Aug 2024 20:25:35 +0700</pubDate>
       
-      <guid>http://localhost:60506/tags/advanced/teknik/</guid>
+      <guid>http://localhost:1313/tags/advanced/teknik/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Jadwal</title>
-      <link>http://localhost:60506/tags/advanced/jadwal/</link>
+      <link>http://localhost:1313/tags/advanced/jadwal/</link>
       <pubDate>Sat, 03 Aug 2024 20:16:37 +0700</pubDate>
       
-      <guid>http://localhost:60506/tags/advanced/jadwal/</guid>
+      <guid>http://localhost:1313/tags/advanced/jadwal/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Teknologi Pendidikan</title>
-      <link>http://localhost:60506/examples/post/tips4/</link>
+      <link>http://localhost:1313/examples/post/tips4/</link>
       <pubDate>Thu, 01 Aug 2024 13:24:32 +0700</pubDate>
       
-      <guid>http://localhost:60506/examples/post/tips4/</guid>
+      <guid>http://localhost:1313/examples/post/tips4/</guid>
       <description>Teknologi Pendidikan #Selamat datang di kategori &amp;ldquo;Teknologi Pendidikan&amp;rdquo; di Blog &amp;ldquo;Belajar Pintar&amp;rdquo;. Di sini, Anda akan menemukan berbagai artikel yang membahas bagaimana teknologi dapat mendukung dan meningkatkan proses belajar-mengajar.</description>
       
     </item>
     
     <item>
       <title>Tips Belajar</title>
-      <link>http://localhost:60506/examples/post/tips3/</link>
+      <link>http://localhost:1313/examples/post/tips3/</link>
       <pubDate>Thu, 01 Aug 2024 13:10:47 +0700</pubDate>
       
-      <guid>http://localhost:60506/examples/post/tips3/</guid>
+      <guid>http://localhost:1313/examples/post/tips3/</guid>
       <description>Tips Belajar #Selamat datang di kategori &amp;ldquo;Tips Belajar&amp;rdquo; di Blog &amp;ldquo;Belajar Pintar&amp;rdquo;. Di sini, Anda akan menemukan berbagai artikel yang dirancang untuk membantu Anda meningkatkan efektivitas dan efisiensi dalam belajar.</description>
       
     </item>
     
     <item>
       <title>Mengatasi Kecemasan Ujian: Strategi dan Tips</title>
-      <link>http://localhost:60506/examples/post/tips2/</link>
+      <link>http://localhost:1313/examples/post/tips2/</link>
       <pubDate>Thu, 01 Aug 2024 12:58:02 +0700</pubDate>
       
-      <guid>http://localhost:60506/examples/post/tips2/</guid>
+      <guid>http://localhost:1313/examples/post/tips2/</guid>
       <description>Mengatasi Kecemasan Ujian: Strategi dan Tips #Kecemasan ujian adalah hal yang umum dialami oleh banyak siswa, tetapi bukan berarti tidak bisa diatasi. Berikut ini adalah beberapa strategi dan tips yang dapat membantu Anda mengelola kecemasan ujian agar bisa tampil lebih baik.</description>
       
     </item>
     
     <item>
       <title>5 Tips Efektif untuk Meningkatkan Minat Baca</title>
-      <link>http://localhost:60506/examples/post/tips/</link>
+      <link>http://localhost:1313/examples/post/tips/</link>
       <pubDate>Thu, 01 Aug 2024 12:32:27 +0700</pubDate>
       
-      <guid>http://localhost:60506/examples/post/tips/</guid>
+      <guid>http://localhost:1313/examples/post/tips/</guid>
       <description>5 Tips Efektif untuk Meningkatkan Minat Baca #Meningkatkan minat baca adalah salah satu cara terbaik untuk memperkaya pengetahuan dan keterampilan seseorang. Berikut ini adalah lima tips efektif yang dapat membantu Anda atau anak-anak Anda untuk lebih gemar membaca.</description>
       
     </item>
     
     <item>
       <title>Build your homepage using Blowfish and Hugo</title>
-      <link>http://localhost:60506/guides/202310-blowfish-tutorial/</link>
+      <link>http://localhost:1313/guides/202310-blowfish-tutorial/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/guides/202310-blowfish-tutorial/</guid>
+      <guid>http://localhost:1313/guides/202310-blowfish-tutorial/</guid>
       <description>Just one year ago, I created Blowfish, a Hugo theme crafted to build my unique vision for my personal homepage. I also decided to make it an open-source project. Fast-forward to today, and Blowfish has transformed into a thriving open-source project with over 600 stars on GitHub and a user base of hundreds. In this tutorial, I’ll show you how to get started and have your website running in a couple of minutes.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/guides/202310-blowfish-tutorial/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/202310-blowfish-tutorial/featured.jpg" />
     </item>
     
     <item>
       <title>Punyaku Tutorial</title>
-      <link>http://localhost:60506/examples/blowfish-tutorial/_index.it/</link>
+      <link>http://localhost:1313/examples/blowfish-tutorial/_index.it/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/blowfish-tutorial/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Punyaku Tutorial</title>
-      <link>http://localhost:60506/examples/blowfish-tutorial/_index.ja/</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/blowfish-tutorial/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/blowfish-tutorial/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Punyaku Tutorial</title>
-      <link>http://localhost:60506/examples/blowfish-tutorial/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/blowfish-tutorial/_index.ja/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/blowfish-tutorial/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/blowfish-tutorial/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Belajar Pintar Tutorial</title>
-      <link>http://localhost:60506/examples/repo-blowfish-tutorial/_index.it/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <title>Punyaku Tutorial</title>
+      <link>http://localhost:1313/examples/blowfish-tutorial/_index.zh-cn/</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/repo-blowfish-tutorial/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Belajar Pintar Tutorial</title>
-      <link>http://localhost:60506/examples/repo-blowfish-tutorial/_index.ja/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/repo-blowfish-tutorial/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Belajar Pintar Tutorial</title>
-      <link>http://localhost:60506/examples/repo-blowfish-tutorial/_index.zh-cn/</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/repo-blowfish-tutorial/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/blowfish-tutorial/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Belajar Pintar Lite</title>
-      <link>http://localhost:60506/examples/blowfish-lite/_index.it/</link>
+      <link>http://localhost:1313/examples/blowfish-lite/_index.it/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/blowfish-lite/_index.it/</guid>
+      <guid>http://localhost:1313/examples/blowfish-lite/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Belajar Pintar Lite</title>
-      <link>http://localhost:60506/examples/blowfish-lite/_index.ja/</link>
+      <link>http://localhost:1313/examples/blowfish-lite/_index.ja/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/blowfish-lite/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/blowfish-lite/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Belajar Pintar Lite</title>
-      <link>http://localhost:60506/examples/blowfish-lite/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/blowfish-lite/_index.zh-cn/</link>
       <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/blowfish-lite/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/blowfish-lite/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Belajar Pintar Artist</title>
-      <link>http://localhost:60506/examples/blowfish-artist/_index.it/</link>
+      <link>http://localhost:1313/examples/blowfish-artist/_index.it/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/blowfish-artist/_index.it/</guid>
+      <guid>http://localhost:1313/examples/blowfish-artist/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Belajar Pintar Artist</title>
-      <link>http://localhost:60506/examples/blowfish-artist/_index.ja/</link>
+      <link>http://localhost:1313/examples/blowfish-artist/_index.ja/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/blowfish-artist/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/blowfish-artist/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Belajar Pintar Artist</title>
-      <link>http://localhost:60506/examples/blowfish-artist/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/blowfish-artist/_index.zh-cn/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/blowfish-artist/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/blowfish-artist/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Lowkey</title>
-      <link>http://localhost:60506/examples/blowfish-lowkey/_index.it/</link>
+      <link>http://localhost:1313/examples/blowfish-lowkey/_index.it/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/blowfish-lowkey/_index.it/</guid>
+      <guid>http://localhost:1313/examples/blowfish-lowkey/_index.it/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Lowkey</title>
-      <link>http://localhost:60506/examples/blowfish-lowkey/_index.ja/</link>
+      <link>http://localhost:1313/examples/blowfish-lowkey/_index.ja/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/blowfish-lowkey/_index.ja/</guid>
+      <guid>http://localhost:1313/examples/blowfish-lowkey/_index.ja/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Blowfish Lowkey</title>
-      <link>http://localhost:60506/examples/blowfish-lowkey/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/blowfish-lowkey/_index.zh-cn/</link>
       <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/blowfish-lowkey/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/examples/blowfish-lowkey/_index.zh-cn/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Multiple Authors</title>
-      <link>http://localhost:60506/samples/multiple-authors/</link>
+      <link>http://localhost:1313/samples/multiple-authors/</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/samples/multiple-authors/</guid>
+      <guid>http://localhost:1313/samples/multiple-authors/</guid>
       <description>A quick example of how multiple authors could be used.</description>
       
     </item>
     
     <item>
       <title>Thumbnails</title>
-      <link>http://localhost:60506/samples/thumbnail_sample/</link>
+      <link>http://localhost:1313/samples/thumbnail_sample/</link>
       <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/samples/thumbnail_sample/</guid>
+      <guid>http://localhost:1313/samples/thumbnail_sample/</guid>
       <description>A quick example of how to start using Thumbnails in your artciles.</description>
       
     </item>
     
     <item>
-      <title>Blowfish Lite - Repo</title>
-      <link>http://localhost:60506/examples/repo-blowfish-lite/_index.it/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/repo-blowfish-lite/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite - Repo</title>
-      <link>http://localhost:60506/examples/repo-blowfish-lite/_index.zh-cn/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/repo-blowfish-lite/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lite - レポジトリ</title>
-      <link>http://localhost:60506/examples/repo-blowfish-lite/_index.ja/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/repo-blowfish-lite/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist - Repo</title>
-      <link>http://localhost:60506/examples/repo-blowfish-artist/_index.it/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/repo-blowfish-artist/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist - Repo</title>
-      <link>http://localhost:60506/examples/repo-blowfish-artist/_index.zh-cn/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/repo-blowfish-artist/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Artist - レポジトリ</title>
-      <link>http://localhost:60506/examples/repo-blowfish-artist/_index.ja/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/repo-blowfish-artist/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey - Repo</title>
-      <link>http://localhost:60506/examples/repo-blowfish-lowkey/_index.it/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/repo-blowfish-lowkey/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey - Repo</title>
-      <link>http://localhost:60506/examples/repo-blowfish-lowkey/_index.zh-cn/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/repo-blowfish-lowkey/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Lowkey - レポジトリ</title>
-      <link>http://localhost:60506/examples/repo-blowfish-lowkey/_index.ja/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/repo-blowfish-lowkey/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Template</title>
-      <link>http://localhost:60506/examples/blowfish-template/_index.it/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/blowfish-template/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Template</title>
-      <link>http://localhost:60506/examples/blowfish-template/_index.zh-cn/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/blowfish-template/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Template - GitHub Repo</title>
-      <link>http://localhost:60506/examples/blowfish-template-repo/_index.it/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/blowfish-template-repo/_index.it/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish Template - GitHub Repo</title>
-      <link>http://localhost:60506/examples/blowfish-template-repo/_index.zh-cn/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/blowfish-template-repo/_index.zh-cn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish テンプレート</title>
-      <link>http://localhost:60506/examples/blowfish-template/_index.ja/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/blowfish-template/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Blowfish テンプレート - GitHub レポジトリ</title>
-      <link>http://localhost:60506/examples/blowfish-template-repo/_index.ja/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/examples/blowfish-template-repo/_index.ja/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Users</title>
-      <link>http://localhost:60506/users/users/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/users/</guid>
-      <description>Real websites that are built with Blowfish. Check the full list in JSON format.
-Blowfish user? To add your site to this list, submit a pull request.</description>
-      
-    </item>
-    
-    <item>
-      <title>ユーザー</title>
-      <link>http://localhost:60506/users/users/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/users/</guid>
-      <description>Blowfish で構築された実際のウェブサイトです。すべてのウェブサイト一</description>
-      
-    </item>
-    
-    <item>
-      <title>用户列表</title>
-      <link>http://localhost:60506/users/users/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:60506/users/users/</guid>
-      <description>这里有使用 Blowfish 构建的网站实例。点击这里以 JSON 形式查看完整列表。 您</description>
-      
-    </item>
-    
-    <item>
       <title>Markdown</title>
-      <link>http://localhost:60506/samples/markdown/</link>
+      <link>http://localhost:1313/samples/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/samples/markdown/</guid>
+      <guid>http://localhost:1313/samples/markdown/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>http://localhost:60506/samples/placeholder-text/</link>
+      <link>http://localhost:1313/samples/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/samples/placeholder-text/</guid>
+      <guid>http://localhost:1313/samples/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Emoji :parachute:</title>
-      <link>http://localhost:60506/samples/emoji/</link>
+      <link>http://localhost:1313/samples/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/samples/emoji/</guid>
+      <guid>http://localhost:1313/samples/emoji/</guid>
       <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
       
     </item>
     
     <item>
       <title>Recipe Template</title>
-      <link>http://localhost:60506/guides/template/</link>
+      <link>http://localhost:1313/guides/template/</link>
       <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/guides/template/</guid>
+      <guid>http://localhost:1313/guides/template/</guid>
       <description>Thank you for wanting to contribute to Blowfish&amp;rsquo;s community.
 How to start? #This is a template article that will explain how to create a new article for Blowfish&amp;rsquo;s guide section.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:60506/guides/template/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/guides/template/featured.jpg" />
     </item>
     
     <item>
       <title>2人目のダミー作者</title>
-      <link>http://localhost:60506/authors/secondauthor/_index.ja/</link>
+      <link>http://localhost:1313/authors/secondauthor/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/authors/secondauthor/_index.ja/</guid>
+      <guid>http://localhost:1313/authors/secondauthor/_index.ja/</guid>
       <description>2人目のダミー作者の素晴らしいダミープロフィールです。</description>
       
     </item>
     
     <item>
       <title>Advanced</title>
-      <link>http://localhost:60506/tags/advanced/_index.it/</link>
+      <link>http://localhost:1313/tags/advanced/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/tags/advanced/_index.it/</guid>
+      <guid>http://localhost:1313/tags/advanced/_index.it/</guid>
       <description>This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing.</description>
       
     </item>
     
     <item>
       <title>Benvenuti a Blowfish!</title>
-      <link>http://localhost:60506/_index.it/</link>
+      <link>http://localhost:1313/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/_index.it/</guid>
+      <guid>http://localhost:1313/_index.it/</guid>
       <description>Questa è una demo del layout background.Cambia layout &amp;orarr;npx blowfish-tools </description>
       
     </item>
     
     <item>
       <title>Blowfish へようこそ! :tada:</title>
-      <link>http://localhost:60506/_index.ja/</link>
+      <link>http://localhost:1313/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/_index.ja/</guid>
+      <guid>http://localhost:1313/_index.ja/</guid>
       <description>こちらは background レイアウトのデモです。 レイアウトを変更する&amp;ora</description>
       
     </item>
     
     <item>
       <title>Campioni</title>
-      <link>http://localhost:60506/samples/_index.it/</link>
+      <link>http://localhost:1313/samples/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/samples/_index.it/</guid>
+      <guid>http://localhost:1313/samples/_index.it/</guid>
       <description>Blowfish dà vita ai tuoi contenuti. &amp;#x1f60d;Questa sezione contiene alcune pagine demo che mostrano come Blowfish esegue il rendering di diversi tipi di contenuto. Puoi anche vedere una pagina di esempio elenco tassonomia.</description>
       
     </item>
     
     <item>
       <title>Dummy Second Author</title>
-      <link>http://localhost:60506/authors/secondauthor/_index.zh-cn/</link>
+      <link>http://localhost:1313/authors/secondauthor/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/authors/secondauthor/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/authors/secondauthor/_index.zh-cn/</guid>
       <description>假装这里有一份第二位作者的简介。</description>
       
     </item>
     
     <item>
       <title>Esempio di elenco di tassonomia degli autori</title>
-      <link>http://localhost:60506/authors/_index.it/</link>
+      <link>http://localhost:1313/authors/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/authors/_index.it/</guid>
+      <guid>http://localhost:1313/authors/_index.it/</guid>
       <description>Un rapido esempio di come iniziare a utilizzare le tassonomie degli autori nei tuoi articoli.</description>
       
     </item>
     
     <item>
       <title>Nuno Coraçao</title>
-      <link>http://localhost:60506/authors/nunocoracao/_index.it/</link>
+      <link>http://localhost:1313/authors/nunocoracao/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/authors/nunocoracao/_index.it/</guid>
+      <guid>http://localhost:1313/authors/nunocoracao/_index.it/</guid>
       <description>La fantastica biografia di Nuno.</description>
       
     </item>
     
     <item>
       <title>Nuno Coração</title>
-      <link>http://localhost:60506/authors/nunocoracao/_index.ja/</link>
+      <link>http://localhost:1313/authors/nunocoracao/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/authors/nunocoracao/_index.ja/</guid>
+      <guid>http://localhost:1313/authors/nunocoracao/_index.ja/</guid>
       <description>Nuno の素晴らしいダミープロフィールです。</description>
       
     </item>
     
     <item>
       <title>Nuno Coração</title>
-      <link>http://localhost:60506/authors/nunocoracao/_index.zh-cn/</link>
+      <link>http://localhost:1313/authors/nunocoracao/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/authors/nunocoracao/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/authors/nunocoracao/_index.zh-cn/</guid>
       <description>假装这里有一份 Nuno 的简介。</description>
       
     </item>
     
     <item>
       <title>Secondo autore fittizio</title>
-      <link>http://localhost:60506/authors/secondauthor/_index.it/</link>
+      <link>http://localhost:1313/authors/secondauthor/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/authors/secondauthor/_index.it/</guid>
+      <guid>http://localhost:1313/authors/secondauthor/_index.it/</guid>
       <description>La fantastica biografia fittizia di Dummy Second Author.</description>
       
     </item>
     
     <item>
       <title>Showcase</title>
-      <link>http://localhost:60506/examples/_index.it/</link>
+      <link>http://localhost:1313/examples/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/_index.it/</guid>
-      <description>Berbagai Postingan dan Tutorial Ada di Sini!!This section contains links to example templates and pages created using Blowfish to get you inspired.</description>
+      <guid>http://localhost:1313/examples/_index.it/</guid>
+      <description>Berbagai Postingan dan Tutorial Ada di Sini!!</description>
       
     </item>
     
     <item>
       <title>Showcase</title>
-      <link>http://localhost:60506/examples/_index.zh-cn/</link>
+      <link>http://localhost:1313/examples/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/_index.zh-cn/</guid>
-      <description>Berbagai Postingan dan Tutorial Ada di Sini!!This section contains links to example templates and pages created using Blowfish to get you inspired.</description>
+      <guid>http://localhost:1313/examples/_index.zh-cn/</guid>
+      <description>Berbagai Postingan dan Tutorial Ada di Sini!!</description>
       
     </item>
     
     <item>
       <title>Tag</title>
-      <link>http://localhost:60506/tags/_index.it/</link>
+      <link>http://localhost:1313/tags/_index.it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/tags/_index.it/</guid>
+      <guid>http://localhost:1313/tags/_index.it/</guid>
       <description>Selamat datang di halaman &amp;ldquo;Tags&amp;rdquo; Blog &amp;ldquo;Belajar Pintar&amp;rdquo;. Di sini, Anda dapat menjelajahi artikel-artikel kami berdasarkan topik tertentu yang relevan dengan kebutuhan belajar Anda. Klik pada tag yang menarik perhatian Anda untuk menemukan artikel-artikel yang terkait dan mendalami informasi lebih lanjut.</description>
       
     </item>
     
     <item>
       <title>サンプル</title>
-      <link>http://localhost:60506/samples/_index.ja/</link>
+      <link>http://localhost:1313/samples/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/samples/_index.ja/</guid>
+      <guid>http://localhost:1313/samples/_index.ja/</guid>
       <description>Blowfish はあなたのコンテンツに命を宿します。&amp;#x1f60d; この</description>
       
     </item>
     
     <item>
       <title>ショーケース</title>
-      <link>http://localhost:60506/examples/_index.ja/</link>
+      <link>http://localhost:1313/examples/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/examples/_index.ja/</guid>
-      <description>Berbagai Postingan dan Tutorial Ada di Sini!! このセクションはテンプレートの例やインスピレー</description>
+      <guid>http://localhost:1313/examples/_index.ja/</guid>
+      <description>Berbagai Postingan dan Tutorial Ada di Sini!!</description>
       
     </item>
     
     <item>
       <title>タグ</title>
-      <link>http://localhost:60506/tags/_index.ja/</link>
+      <link>http://localhost:1313/tags/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/tags/_index.ja/</guid>
+      <guid>http://localhost:1313/tags/_index.ja/</guid>
       <description>Selamat datang di halaman &amp;ldquo;Tags&amp;rdquo; Blog &amp;ldquo;Belajar Pintar&amp;rdquo;. Di sini, Anda dapat menjelajahi artikel-artikel kami berdasarkan topik tertentu yang relevan dengan kebutuhan belajar Anda. Klik pada tag yang menarik perhatian</description>
       
     </item>
     
     <item>
       <title>作者列表示例</title>
-      <link>http://localhost:60506/authors/_index.zh-cn/</link>
+      <link>http://localhost:1313/authors/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/authors/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/authors/_index.zh-cn/</guid>
       <description>在你的文章中添加不同作者的简单示例。</description>
       
     </item>
     
     <item>
       <title>标签</title>
-      <link>http://localhost:60506/tags/_index.zh-cn/</link>
+      <link>http://localhost:1313/tags/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/tags/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/tags/_index.zh-cn/</guid>
       <description>Selamat datang di halaman &amp;ldquo;Tags&amp;rdquo; Blog &amp;ldquo;Belajar Pintar&amp;rdquo;. Di sini, Anda dapat menjelajahi artikel-artikel kami berdasarkan topik tertentu yang relevan dengan kebutuhan belajar Anda. Klik pada tag yang menarik perhatian</description>
       
     </item>
     
     <item>
       <title>欢迎来到 Blowfish! :tada:</title>
-      <link>http://localhost:60506/_index.zh-cn/</link>
+      <link>http://localhost:1313/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/_index.zh-cn/</guid>
       <description>这是 background 的样式示例。 切换 layout &amp;orarr; npx blowfish-tools</description>
       
     </item>
     
     <item>
       <title>示例</title>
-      <link>http://localhost:60506/samples/_index.zh-cn/</link>
+      <link>http://localhost:1313/samples/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/samples/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/samples/_index.zh-cn/</guid>
       <description>Blowfish 让你的内容栩栩如生。 &amp;#x1f60d; 本节包含一些示例页面，展示了Blow</description>
       
     </item>
     
     <item>
       <title>著者の分類リストの例</title>
-      <link>http://localhost:60506/authors/_index.ja/</link>
+      <link>http://localhost:1313/authors/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/authors/_index.ja/</guid>
+      <guid>http://localhost:1313/authors/_index.ja/</guid>
       <description>あなたの記事でどのように著者の分類を開始するかの簡単な例です</description>
       
     </item>
     
     <item>
       <title>高度なタグ</title>
-      <link>http://localhost:60506/tags/advanced/_index.ja/</link>
+      <link>http://localhost:1313/tags/advanced/_index.ja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/tags/advanced/_index.ja/</guid>
+      <guid>http://localhost:1313/tags/advanced/_index.ja/</guid>
       <description>こちらは高度なタグです。 Blowfish の他のページの様に、個々の分類条項</description>
       
     </item>
     
     <item>
       <title>高级</title>
-      <link>http://localhost:60506/tags/advanced/_index.zh-cn/</link>
+      <link>http://localhost:1313/tags/advanced/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:60506/tags/advanced/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/tags/advanced/_index.zh-cn/</guid>
       <description>这是高级标记。类似其他 Blowfish 中的其他列表页面，你可以在分类列表页</description>
       
     </item>

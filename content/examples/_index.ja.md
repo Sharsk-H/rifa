@@ -17,6 +17,5 @@ cascade:
 Berbagai Postingan dan Tutorial Ada di Sini!!
 {{< /lead >}}
 
-このセクションはテンプレートの例やインスピレーションを得ることの出来る Blowfish を使用して作成されたページのリンクがあります。
 
 ---
